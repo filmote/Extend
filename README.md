@@ -37,4 +37,4 @@ arduboy.display();
 
 ### Show me the source! ###
 
-The sample code for this extension can be found in my [repository] (https://github.com/filmote/Extend) https://github.com/filmote/Extend.
+The sample code for this extension can be found in my [repository] (https://github.com/filmote/Extend) https://github.com/filmote/Extend.  I encourage you to review what I have done and shoot me any questions you have.
