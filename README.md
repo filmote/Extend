@@ -35,6 +35,6 @@ arduboy.display();
 
 ![Extend](https://github.com/filmote/Extend/blob/master/images/Extend_2.png)
 
-# Show me the source! #
+### Show me the source! ###
 
 The sample code for this extension can be found in my [repository] (https://github.com/filmote/Extend) https://github.com/filmote/Extend.
