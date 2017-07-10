@@ -1,4 +1,4 @@
-##Don’t like the default behaviour? Extend and overwrite it!##
+## Don’t like the default behaviour? Extend and overwrite it! ##
 
 The great think about the Arduino and Arduboy environment is that it is uses C / C++, which allows you to create your own classes or extend others.  When creating my Dominoes game (repository at https://github.com/filmote/DominoesArduboy), I wanted the text to be shown on the right hand side of the screen in place of the boneyard, as shown below.
 
@@ -35,6 +35,6 @@ arduboy.display();
 
 ![Extend](https://github.com/filmote/Extend/blob/master/images/Extend_2.png)
 
-#Show me the source!#
+# Show me the source! #
 
 The sample code for this extension can be found in my [repository] (https://github.com/filmote/Extend) https://github.com/filmote/Extend.
